@@ -11,5 +11,9 @@ A place to keep tiny javascript examples
 ### Test
 `npm test`
 
+### Add dependencies
+Example:
+`npm install --save-dev chai`
+
 ### Lint project files
 `./node_modules/.bin/eslint --ext .js .`
