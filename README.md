@@ -16,4 +16,4 @@ Example:
 `npm install --save-dev chai`
 
 ### Lint project files
-`./node_modules/.bin/eslint --ext .js .`
+`npm run lint`
